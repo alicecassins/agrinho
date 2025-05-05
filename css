@@ -85,3 +85,13 @@ ul {
     margin: 10px 0;
     padding-left: 20px;
 } 
+
+/* Botões */ 
+.cta-button {
+    display: block;
+    width: 200px;
+    margin: 20px auto;
+    padding: 10px;
+    background: var(--secondary-color);
+    color: var(--text-color)
+}
